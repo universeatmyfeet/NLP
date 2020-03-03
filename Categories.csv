@@ -1,0 +1,10 @@
+Name,Ord
+SentimentNegative,1
+SentimentNeutral,2
+SentimentPositive,3
+OffTopic,4
+Inappropriate,5
+Discriminating,6
+PossiblyFeedback,7
+PersonalStories,8
+ArgumentsUsed,9
